@@ -5,3 +5,4 @@ pip==23.2.1
 plotly==5.15.0
 streamlit==1.25.0
 streamlit_lottie==0.0.5
+openpyxl == 3.1.2
