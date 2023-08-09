@@ -1,0 +1,8 @@
+:monkey: :blue[**Exercises 1:**] This is an example on how to create a markdown exercises . . .   
+This is an example of how to type in an :orange[Inline LaTeX Equation:] :red[$\; y=mx+c\;$]   
+and this is an example of a :orange[multiple lines equation]      
+$$
+Riemann \; Sum = \sum_{i=1}^{n} f(x_i)\Delta x_i \;
+$$
+
+Which choice is the :red[*Incorrect*] answer :question:

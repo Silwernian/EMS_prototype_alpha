@@ -1,0 +1,10 @@
+[theme]
+base="dark"
+primaryColor="#d54ef3"
+
+
+[server]
+runOnSave = true
+
+[runner]
+magicEnabled = true
