@@ -4,7 +4,6 @@ from streamlit_lottie import st_lottie
 import os
 from PIL import Image
 import io
-import ast
 import uuid
 
 import numpy as np
